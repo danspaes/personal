@@ -8,7 +8,7 @@ export default class About extends Component {
 <section id="about">
   <div className="row">
     <div className="three columns">
-      <img className="profile-pic" src="images/avatar.jpg" alt />
+      <img className="profile-pic" src="images/avatar.jpg" alt="avatar" />
     </div>
     <div className="nine columns main-col">
       <h2>About Me</h2>
@@ -28,7 +28,7 @@ export default class About extends Component {
         </div>
         <div className="columns download">
           <p>
-            <a href="assets/CV-Daniel_Paes.pdf" className="button" download><i className="fa fa-download" />Download Resume</a>
+            <a href="assets/CV-Daniel_Paes.doc" className="button" download><i className="fa fa-download" />Download Resume</a>
           </p>
         </div>
       </div> {/* end row */}
