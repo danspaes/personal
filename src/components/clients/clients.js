@@ -13,87 +13,87 @@ export default class Clients extends Component {
 	    <div id="clients-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
         <div className=" columns clients-item">
           <div className="item-wrap img">
-            <img alt src="images/clients/bnc.jpg" />
+            <img alt="" src="images/clients/bnc.jpg" />
           </div>
         </div> {/* item end */}
         <div className=" columns clients-item">
           <div className="item-wrap img">
-            <img alt src="images/clients/videotron.jpg" />
+            <img alt="" src="images/clients/videotron.jpg" />
           </div>
         </div> {/* item end */}
         <div className=" columns clients-item">
           <div className="item-wrap img">
-            <img alt src="images/clients/td.jpg" />
+            <img alt="" src="images/clients/td.jpg" />
           </div>
         </div> {/* item end */}
         <div className=" columns clients-item">
           <div className="item-wrap img">
-            <img alt src="images/clients/rcl.jpg" />
+            <img alt="" src="images/clients/rcl.jpg" />
           </div>
         </div> {/* item end */}
         <div className=" columns clients-item">
           <div className="item-wrap img">
-            <img alt src="images/clients/acc.jpg" />
+            <img alt="" src="images/clients/acc.jpg" />
           </div>
         </div> {/* item end */}
         <div className=" columns clients-item">
           <div className="item-wrap img">
-            <img alt src="images/clients/indra.jpg" />
+            <img alt="" src="images/clients/indra.jpg" />
           </div>
         </div> {/* item end */}
         <div className=" columns clients-item">
           <div className="item-wrap img">
-            <img alt src="images/clients/informatica.jpg" />
+            <img alt="" src="images/clients/informatica.jpg" />
           </div>
         </div> {/* item end */}
         <div className=" columns clients-item">
           <div className="item-wrap img">
-            <img alt src="images/clients/teradata.jpg" />
+            <img alt="" src="images/clients/teradata.jpg" />
           </div>
         </div> {/* item end */}
         <div className=" columns clients-item">
           <div className="item-wrap img">
-            <img alt src="images/clients/ntt.jpg" />
+            <img alt="" src="images/clients/ntt.jpg" />
           </div>
         </div> {/* item end */}
         <div className=" columns clients-item">
           <div className="item-wrap img">
-            <img alt src="images/clients/exia.jpg" />
+            <img alt="" src="images/clients/exia.jpg" />
           </div>
         </div> {/* item end */}
         <div className=" columns clients-item">
           <div className="item-wrap img">
-            <img alt src="images/clients/sulamerica.jpg" />
+            <img alt="" src="images/clients/sulamerica.jpg" />
           </div>
         </div> {/* item end */}
         <div className=" columns clients-item">
           <div className="item-wrap img">
-            <img alt src="images/clients/instituto.jpg" />
+            <img alt="" src="images/clients/instituto.jpg" />
           </div>
         </div> {/* item end */}
         <div className=" columns clients-item">
           <div className="item-wrap img">
-            <img alt src="images/clients/govrj.jpg" />
+            <img alt="" src="images/clients/govrj.jpg" />
           </div>
         </div> {/* item end */}
         <div className=" columns clients-item">
           <div className="item-wrap img">
-            <img alt  src="images/clients/oi.jpg" />
+            <img alt=""  src="images/clients/oi.jpg" />
           </div>
         </div> {/* item end */}
         <div className=" columns clients-item">
           <div className="item-wrap img">
-            <img alt src="images/clients/leader.jpg" />
+            <img alt="" src="images/clients/leader.jpg" />
           </div>
         </div> {/* item end */}
         <div className=" columns clients-item">
           <div className="item-wrap img">
-            <img alt src="images/clients/tim.jpg" />
+            <img alt="" src="images/clients/tim.jpg" />
           </div>
         </div> {/* item end */}
         <div className=" columns clients-item">
           <div className="item-wrap img">
-             <img alt src="images/clients/icatu.jpg" />
+             <img alt="" src="images/clients/icatu.jpg" />
           </div>
         </div> {/* item end */}
       </div> {/* clients-wrapper end */}

@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 export default class Testimonials extends Component {
   render() {
+    let testData = this.props.testData;
     return (
       <React.Fragment>
 	{/* Testimonials Section
